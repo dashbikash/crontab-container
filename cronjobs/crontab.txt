@@ -1,0 +1,4 @@
+* * * * * /cronjobs/job-script.sh
+* * * * * sleep 15; /cronjobs/job-script.sh
+* * * * * sleep 30; /cronjobs/job-script.sh
+* * * * * sleep 45; /cronjobs/job-script.sh
